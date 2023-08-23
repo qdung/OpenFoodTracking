@@ -1,0 +1,416 @@
+{
+  "nutrients_serving": [
+    {
+      "name": "energy-kcal_serving",
+      "unit": "kcal",
+      "dailyValue": 2000
+    },
+    {
+      "name": "polyunsaturated-fat",
+      "unit": "g",
+      "dailyValue": 78
+    },
+    {
+      "name": "saturated-fat_serving",
+      "unit": "g",
+      "dailyValue": 30
+    },
+    {
+      "name": "monounsaturated-fat",
+      "unit": "g",
+      "dailyValue": 20
+    },
+    {
+      "name": "trans-fat",
+      "unit": "g",
+      "dailyValue": 0
+    },
+    {
+      "name": "fat_serving",
+      "unit": "g",
+      "dailyValue": 78
+    },
+    {
+      "name": "cholesterol_serving",
+      "unit": "mg",
+      "dailyValue": 300
+    },
+    {
+      "name": "sodium_serving",
+      "unit": "mg",
+      "dailyValue": 2300
+    },
+    {
+      "name": "carbohydrates_serving",
+      "unit": "g",
+      "dailyValue": 275
+    },
+    {
+      "name": "fiber_serving",
+      "unit": "g",
+      "dailyValue": 28
+    },
+    {
+      "name": "sugars_serving",
+      "unit": "g",
+      "dailyValue": 50
+    },
+    {
+      "name": "proteins_serving",
+      "unit": "g",
+      "dailyValue": 50
+    },
+    {
+      "name": "vitamin-a_serving",
+      "unit": "IU",
+      "dailyValue": 5000
+    },
+    {
+      "name": "vitamin-c_serving",
+      "unit": "mg",
+      "dailyValue": 90
+    },
+    {
+      "name": "vitamin-d_serving",
+      "unit": "IU",
+      "dailyValue": 600
+    },
+    {
+      "name": "vitamin-e_serving",
+      "unit": "mg",
+      "dailyValue": 15
+    },
+    {
+      "name": "vitamin-k_serving",
+      "unit": "mcg",
+      "dailyValue": 120
+    },
+    {
+      "name": "Thiamin (B1)",
+      "unit": "mg",
+      "dailyValue": 1.2
+    },
+    {
+      "name": "Riboflavin (B2)",
+      "unit": "mg",
+      "dailyValue": 1.3
+    },
+    {
+      "name": "vitamin-b2_serving",
+      "unit": "mg",
+      "dailyValue": 1.3
+    },
+    {
+      "name": "Niacin (B3)",
+      "unit": "mg",
+      "dailyValue": 16
+    },
+    {
+      "name": "vitamin-b3_serving",
+      "unit": "mg",
+      "dailyValue": 16
+    },
+    {
+      "name": "vitamin-b6_serving",
+      "unit": "mg",
+      "dailyValue": 1.7
+    },
+    {
+      "name": "Folate (B9)",
+      "unit": "mcg",
+      "dailyValue": 400
+    },
+    {
+      "name": "vitamin-b9_serving",
+      "unit": "mcg",
+      "dailyValue": 400
+    },
+    {
+      "name": "vitamin-b12_serving",
+      "unit": "mcg",
+      "dailyValue": 2.4
+    },
+    {
+      "name": "Biotin (B7)",
+      "unit": "mcg",
+      "dailyValue": 30
+    },
+    {
+      "name": "vitamin-b7_serving",
+      "unit": "mcg",
+      "dailyValue": 30
+    },
+    {
+      "name": "Pantothenic Acid (B5)",
+      "unit": "mg",
+      "dailyValue": 5
+    },
+    {
+      "name": "vitamin-b5_serving",
+      "unit": "mg",
+      "dailyValue": 5
+    },
+    {
+      "name": "calcium_serving",
+      "unit": "mg",
+      "dailyValue": 1000
+    },
+    {
+      "name": "iron_serving",
+      "unit": "mg",
+      "dailyValue": 18
+    },
+    {
+      "name": "phosphorus_serving",
+      "unit": "mg",
+      "dailyValue": 1000
+    },
+    {
+      "name": "magnesium_serving",
+      "unit": "mg",
+      "dailyValue": 400
+    },
+    {
+      "name": "potassium_serving",
+      "unit": "mg",
+      "dailyValue": 4700
+    },
+    {
+      "name": "selenium_serving",
+      "unit": "mcg",
+      "dailyValue": 55
+    },
+    {
+      "name": "zinc_serving",
+      "unit": "mg",
+      "dailyValue": 11
+    },
+    {
+      "name": "copper_serving",
+      "unit": "mg",
+      "dailyValue": 0.9
+    },
+    {
+      "name": "manganese_serving",
+      "unit": "mg",
+      "dailyValue": 2.3
+    },
+    {
+      "name": "chromium_serving",
+      "unit": "mcg",
+      "dailyValue": 35
+    },
+    {
+      "name": "molybdenum_serving",
+      "unit": "mcg",
+      "dailyValue": 45
+    },
+    {
+      "name": "iodine_serving",
+      "unit": "mcg",
+      "dailyValue": 150
+    }
+  ],
+  "nutrients_value": [
+    {
+      "name": "polyunsaturated-fat",
+      "unit": "g",
+      "dailyValue": 78
+    },
+    {
+      "name": "saturated-fat_value",
+      "unit": "g",
+      "dailyValue": 30
+    },
+    {
+      "name": "monounsaturated-fat",
+      "unit": "g",
+      "dailyValue": 20
+    },
+    {
+      "name": "trans-fat",
+      "unit": "g",
+      "dailyValue": 0
+    },
+    {
+      "name": "cholesterol_value",
+      "unit": "mg",
+      "dailyValue": 300
+    },
+    {
+      "name": "sodium_value",
+      "unit": "mg",
+      "dailyValue": 2300
+    },
+    {
+      "name": "carbohydrates_value",
+      "unit": "g",
+      "dailyValue": 275
+    },
+    {
+      "name": "fiber_value",
+      "unit": "g",
+      "dailyValue": 28
+    },
+    {
+      "name": "sugars_value",
+      "unit": "g",
+      "dailyValue": 50
+    },
+    {
+      "name": "proteins_value",
+      "unit": "g",
+      "dailyValue": 50
+    },
+    {
+      "name": "vitamin-a_value",
+      "unit": "IU",
+      "dailyValue": 5000
+    },
+    {
+      "name": "vitamin-c_value",
+      "unit": "mg",
+      "dailyValue": 90
+    },
+    {
+      "name": "vitamin-d_value",
+      "unit": "IU",
+      "dailyValue": 600
+    },
+    {
+      "name": "vitamin-e_value",
+      "unit": "mg",
+      "dailyValue": 15
+    },
+    {
+      "name": "vitamin-k_value",
+      "unit": "mcg",
+      "dailyValue": 120
+    },
+    {
+      "name": "Thiamin (B1)",
+      "unit": "mg",
+      "dailyValue": 1.2
+    },
+    {
+      "name": "Riboflavin (B2)",
+      "unit": "mg",
+      "dailyValue": 1.3
+    },
+    {
+      "name": "vitamin-b2_value",
+      "unit": "mg",
+      "dailyValue": 1.3
+    },
+    {
+      "name": "Niacin (B3)",
+      "unit": "mg",
+      "dailyValue": 16
+    },
+    {
+      "name": "vitamin-b3_value",
+      "unit": "mg",
+      "dailyValue": 16
+    },
+    {
+      "name": "vitamin-b6_value",
+      "unit": "mg",
+      "dailyValue": 1.7
+    },
+    {
+      "name": "Folate (B9)",
+      "unit": "mcg",
+      "dailyValue": 400
+    },
+    {
+      "name": "vitamin-b9_value",
+      "unit": "mcg",
+      "dailyValue": 400
+    },
+    {
+      "name": "vitamin-b12_value",
+      "unit": "mcg",
+      "dailyValue": 2.4
+    },
+    {
+      "name": "Biotin (B7)",
+      "unit": "mcg",
+      "dailyValue": 30
+    },
+    {
+      "name": "vitamin-b7_value",
+      "unit": "mcg",
+      "dailyValue": 30
+    },
+    {
+      "name": "Pantothenic Acid (B5)",
+      "unit": "mg",
+      "dailyValue": 5
+    },
+    {
+      "name": "vitamin-b5_value",
+      "unit": "mg",
+      "dailyValue": 5
+    },
+    {
+      "name": "calcium_value",
+      "unit": "mg",
+      "dailyValue": 1000
+    },
+    {
+      "name": "iron_value",
+      "unit": "mg",
+      "dailyValue": 18
+    },
+    {
+      "name": "phosphorus_value",
+      "unit": "mg",
+      "dailyValue": 1000
+    },
+    {
+      "name": "magnesium_value",
+      "unit": "mg",
+      "dailyValue": 400
+    },
+    {
+      "name": "potassium_value",
+      "unit": "mg",
+      "dailyValue": 4700
+    },
+    {
+      "name": "selenium_value",
+      "unit": "mcg",
+      "dailyValue": 55
+    },
+    {
+      "name": "zinc_value",
+      "unit": "mg",
+      "dailyValue": 11
+    },
+    {
+      "name": "copper_value",
+      "unit": "mg",
+      "dailyValue": 0.9
+    },
+    {
+      "name": "manganese_value",
+      "unit": "mg",
+      "dailyValue": 2.3
+    },
+    {
+      "name": "chromium_value",
+      "unit": "mcg",
+      "dailyValue": 35
+    },
+    {
+      "name": "molybdenum_value",
+      "unit": "mcg",
+      "dailyValue": 45
+    },
+    {
+      "name": "iodine_value",
+      "unit": "mcg",
+      "dailyValue": 150
+    }
+  ]
+}
